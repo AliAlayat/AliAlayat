@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AliAlayat
+- 👀 I’m interested in Java & Python Programming.
+- 🌱 I’m currently learning Java & Python.
+- 💞️ I’m looking to create mobile and web applications.
+- 📫 You can reach me using my email: mythicalbright4yt@gmail.com
